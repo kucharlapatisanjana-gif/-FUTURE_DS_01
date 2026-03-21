@@ -2,7 +2,8 @@
 
 ## 📌 Project Overview
 This project presents an interactive Power BI dashboard built using an online retail dataset.  
-The dashboard provides insights into sales performance, customer behavior, and product trends.
+This project analyzes online retail sales data to identify revenue trends, top-performing products, and key customer segments.
+It simulates real-world business decision-making using data analysis and visualization
 
 ---
 
@@ -46,10 +47,18 @@ The dashboard provides insights into sales performance, customer behavior, and p
 ---
 
 ## 📌 Key Insights
-- Revenue shows growth towards the end of the year 📈
-- Few customers contribute significantly to total revenue
-- Certain products dominate sales consistently
-- United Kingdom contributes highest revenue
+- Revenue peaked in November (~1.13M), showing strong seasonal demand  
+- United Kingdom generates the highest revenue (~6.8M)  
+- A small group of products contributes significantly to total sales  
+- Customer purchases are concentrated among top buyers
+
+---
+
+### 💡 Recommendations  
+- Focus marketing campaigns in high-performing regions like the UK  
+- Increase inventory for top-selling products  
+- Introduce offers during low-sales months (Jan–Apr)  
+- Implement loyalty programs for high-value customers
 
 ---
 
